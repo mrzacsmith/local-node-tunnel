@@ -1,0 +1,24 @@
+{
+  "name": "local-node-tunnel",
+  "version": "1.0.0",
+  "description": "Create accessible tunnel from local app to world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzacsmith/local-node-tunnel.git"
+  },
+  "keywords": [],
+  "author": "Mr Zac Smith <zrs3141592@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrzacsmith/local-node-tunnel/issues"
+  },
+  "homepage": "https://github.com/mrzacsmith/local-node-tunnel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
